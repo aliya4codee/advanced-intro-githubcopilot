@@ -4,13 +4,13 @@ Welcome to the Chatbot Model Comparison activity! Here, you will compare the out
 Complete the activity [here](https://igfnaqfcyl-13589482-i.codehs.me/index.html).  Then edit this page and write down your reflections here:
 
 ### Which model did you find performed best overall, and why?
-[Reflection Here]
+Model B performened the best. THe ChatGPT model
 
 ### In which comparison category (accuracy, creativity, conciseness, bias) did you find the models to be the most similar? What about the most different?
-[Reflection Here]
+Model A and Model B were the most similiar since the answer, length, and content were similiar. 
 
 ### Were you surprised by any of the results?
-[Reflection Here]
+Model 3 was more suprising with more information. 
 
 ### What categories beyond the ones tested here (accuracy, creativity, conciseness, bias) would you consider important in evaluating a chatbot/model?
-[Reflection Here]
+Ethics and bias. 
